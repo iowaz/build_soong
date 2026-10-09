@@ -276,3 +276,6 @@ com\.mediatek\..*
 # LG adds
 com\.lge
 com\.lge\..* 
+
+# klimt (local): miui-framework-stub (miui.os, miui.securityspace) on the boot classpath
+miui(\..*)?
