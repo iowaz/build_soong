@@ -277,3 +277,6 @@ com\.mediatek\..*
 # LG adds
 com\.lge
 com\.lge\..* 
+
+# klimt: MIUI framework stubs remain in the boot class path.
+miui(\..*)?
